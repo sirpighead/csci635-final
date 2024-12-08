@@ -58,8 +58,7 @@ The project uses the **Cleaned Indian Food Dataset**, which contains:
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/your_username/khaanaGPT.git
-cd khaanaGPT
+https://github.com/sirpighead/csci635-final.git
 ```
 
 ### **Step 2: Create a Virtual Environment (Optional)**
