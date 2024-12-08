@@ -152,22 +152,3 @@ Recipe: Heat tortillas on a pan. Spread black beans, salsa, and onions on the to
 ```
 
 ---
-
-## **Future Improvements**
-1. Extend dataset to include global cuisines.
-2. Improve accuracy of dish prediction using larger models.
-3. Integrate real-time image capture and recipe generation.
-
----
-
-## **Contributions**
-- Contributions are welcome! Feel free to submit a pull request or open an issue for feedback.
-
----
-
-## **License**
-This project is licensed under the MIT License. 
-
----
-
-Copy this content and save it to a file named `README.md`.
