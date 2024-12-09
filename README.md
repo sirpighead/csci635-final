@@ -37,7 +37,7 @@ Key components:
 ---
 
 ## **Dataset**
-- **Source**: [Cleaned Indian Food Dataset](https://www.kaggle.com/datasets/saldenisov/recipenlg/data).
+- **Source**: [Cleaned Indian Food Dataset](https://www.kaggle.com/datasets/sooryaprakash12/cleaned-indian-recipes-dataset).
 - **Structure**:
   - Dish Names (`TranslatedRecipeName`).
   - Ingredients (`Cleaned-Ingredients`).
@@ -62,7 +62,7 @@ Key components:
 ## **Installation**
 ### **Suggested Method**
 - Download the .ipynb file and upload it on Google Colab/ Jupyter Notebook.
-- Download the dataset from [this link](https://www.kaggle.com/datasets/saldenisov/recipenlg/data).
+- Download the dataset from [this link](https://www.kaggle.com/datasets/sooryaprakash12/cleaned-indian-recipes-dataset).
 - Save the dataset as `Cleaned_Indian_Food_Dataset.csv` in the root directory.
 - Once the model is fully trained upload an image in the same directory where the code is and mention the name of it.
 image_path = "Black_Bean_Burrito.jpg"
@@ -86,7 +86,7 @@ pip install -r requirements.txt
 ```
 
 ### **Step 4: Download and Add the Dataset**
-- Download the dataset from [this link](https://www.kaggle.com/datasets/saldenisov/recipenlg/data).
+- Download the dataset from [this link](https://www.kaggle.com/datasets/sooryaprakash12/cleaned-indian-recipes-dataset).
 - Save the dataset as `Cleaned_Indian_Food_Dataset.csv` in the root directory.
 
 ### **Step 5: Upload the image**
