@@ -54,15 +54,15 @@ Key components:
   - `sentence-transformers`
   - `Pillow`
   - `fuzzywuzzy`
-# Note:
-# - Training the model on a GPU (like the Google Colab T4 GPU) will be significantly faster than on a CPU.
-# - Ensure that your runtime is configured to use a GPU for better performance.
+## Note:
+## - Training the model on a GPU (like the Google Colab T4 GPU) will be significantly faster than on a CPU.
+## - Ensure that your runtime is configured to use a GPU for better performance.
 ---
 
 ## **Installation and Run**
-# CODE FILE TO DOWNLOAD :- "ML_PROJECT_khaanaGPT.ipynb"
+### CODE FILE TO DOWNLOAD :- "ML_PROJECT_khaanaGPT.ipynb"
 ### **Suggested Method**
-- Download the .ipynb file and upload it on Google Colab/ Jupyter Notebook.
+- Download the ML_PROJECT_khaanaGPT.ipynb file and upload it on Google Colab/ Jupyter Notebook.
 - Download the dataset from [this link](https://www.kaggle.com/datasets/sooryaprakash12/cleaned-indian-recipes-dataset).
 - Save the dataset as `Cleaned_Indian_Food_Dataset.csv` in the root directory.
 - Once the model is fully trained upload an image in the same directory where the code is and mention the name of it.
