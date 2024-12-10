@@ -59,7 +59,8 @@ Key components:
 # - Ensure that your runtime is configured to use a GPU for better performance.
 ---
 
-## **Installation**
+## **Installation and Run**
+# CODE FILE TO DOWNLOAD :- "ML_PROJECT_khaanaGPT.ipynb"
 ### **Suggested Method**
 - Download the .ipynb file and upload it on Google Colab/ Jupyter Notebook.
 - Download the dataset from [this link](https://www.kaggle.com/datasets/sooryaprakash12/cleaned-indian-recipes-dataset).
